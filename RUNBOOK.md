@@ -41,6 +41,31 @@ noch die alten Bytes zurück, Query-Parameter helfen nicht.
 
 ---
 
+
+---
+
+## HARTE GRENZE: Karussell = hoechstens 10 Bilder
+
+Composio weist einen Eltern-Container mit mehr als 10 `children` ab:
+`List should have at most 10 items after validation`.
+Der Lauf bricht dann ab, ohne dass irgendetwas veroeffentlicht wird.
+
+**Format A steht im Plan mit 12 Slides. Das geht nicht.** Beim Bauen wird auf 10 gekuerzt:
+
+1. Cover
+2.-8. sieben Befund-Slides
+9. Payoff
+10. CTA
+
+Der Wendepunkt (die Aufloesung) sitzt damit auf **Slide 5 von 10** — die Halbzeit-Regel gilt
+unveraendert, nur die Zahl aendert sich. Zum Kuerzen werden Slides zusammengelegt, nicht
+abgeschnitten: zwei duenne Beobachtungs-Slides werden eine, und der letzte Schritt vor dem
+Payoff wandert in den Payoff. Nie die Aufloesung oder den CTA opfern.
+
+Format B (Liste) hat ohnehin 10 Slides und bleibt wie es ist.
+
+---
+
 ## Lauf A — morgens: bauen und prüfen
 
 1. **Stand holen.** `state.json` lesen. `naechste` sagt, welche Akte dran ist.
