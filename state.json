@@ -1,7 +1,24 @@
 {
-  "naechste": 14,
+  "naechste": 15,
   "letzter_post": "2026-10-02",
   "letzte_akte": 13,
-  "bereit": null,
-  "hinweis": "caption wird vollstaendig in bereit hinterlegt (inkl. KI-Hinweis und Hashtags) und unveraendert gepostet."
+  "bereit": {
+    "akte": 14,
+    "typ": "karussell",
+    "titel": "Sieben Sätze über Krafttraining",
+    "bilder": [
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte014/a014_01.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte014/a014_02.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte014/a014_03.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte014/a014_04.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte014/a014_05.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte014/a014_06.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte014/a014_07.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte014/a014_08.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte014/a014_09.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte014/a014_10.jpg"
+    ],
+    "caption": "Sieben Sätze über Krafttraining.\n\nDer fünfte kostet die meisten ein ganzes Jahr: Der Muskel wächst in der Pause, nicht im Training. Wer jeden Tag denselben Muskel reizt, trainiert gegen sich selbst und nennt es Fleiß.\n\nDer wichtigste steht am Ende. Ab etwa 30 verliert man ohne Training rund 3 bis 8 Prozent Muskelmasse pro Jahrzehnt, und der Verlust beschleunigt sich später. Man merkt es nicht mit 40. Man merkt es an dem Tag, an dem man sich beim Aufstehen abstützt.\n\nKrafttraining ist deshalb keine Optik-Entscheidung. Es ist die einzige Maßnahme, die dir mit 70 das Treppensteigen erhält.\n\nFünf Übungen reichen. Kniebeuge, Kreuzheben, Drücken, Ziehen, Tragen.\n\nWomit fängst du an? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#krafttraining #muskelaufbau #trainingsplan #gesundaltern #fitnessüber40 #hanteltraining #gesundheitsakte"
+  },
+  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten."
 }
