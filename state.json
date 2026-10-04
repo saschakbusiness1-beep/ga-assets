@@ -1,7 +1,24 @@
 {
-  "naechste": 15,
+  "naechste": 16,
   "letzter_post": "2026-10-03",
   "letzte_akte": 14,
-  "bereit": null,
+  "bereit": {
+    "akte": 15,
+    "typ": "karussell",
+    "titel": "Ab 30 verlierst du",
+    "bilder": [
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte015/01.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte015/02.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte015/03.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte015/04.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte015/05.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte015/06.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte015/07.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte015/08.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte015/09.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte015/10.jpg"
+    ],
+    "caption": "Mit 62 stand sie vom Stuhl auf und musste sich abstützen. Verloren hatte sie es mit 34.\n\nSie war nie krank — kein Herz, keine Gelenke, keine Diagnose in 62 Jahren. Und sie hat es nicht kommen sehen: Es gab keinen Tag, an dem es auffiel.\n\nEs lag nicht am Alter allein. Ihre Nachbarin, 71, stand ohne Hände auf. Der Unterschied lag 28 Jahre zurück, bei einem Umzug ins Erdgeschoss.\n\nAb etwa 30 verliert der Körper ohne Trainingsreiz Muskelmasse — Schätzungen liegen bei rund 3 bis 8 Prozent pro Jahrzehnt, bei Inaktivität mehr. Man merkt es nicht, bis eine Bewegung nicht mehr geht, die dreißig Jahre lang ging.\n\nDer entscheidende Teil steckt im selben Befund: Muskeln bleiben bis ins hohe Alter trainierbar. Es gibt kein Alter, in dem sich das nicht mehr lohnt.\n\nSie fing mit 62 an, zweimal die Woche, mit Anleitung. Nach acht Monaten stand sie ohne Hände auf.\n\nDas klingt nach wenig. Für sie war es alles.\n\nTeile das mit jemandem über 50. 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#sarkopenie #muskelabbau #gesundaltern #krafttrainingab50 #beweglichbleiben #altersfitness #gesundheitsakte"
+  },
   "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten."
 }
