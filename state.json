@@ -1,7 +1,24 @@
 {
-  "naechste": 16,
+  "naechste": 17,
   "letzter_post": "2026-10-04",
   "letzte_akte": 15,
-  "bereit": null,
+  "bereit": {
+    "akte": 16,
+    "typ": "karussell",
+    "titel": "Sieben Sätze über Sattwerden",
+    "bilder": [
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte016/01.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte016/02.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte016/03.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte016/04.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte016/05.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte016/06.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte016/07.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte016/08.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte016/09.jpg",
+      "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte016/10.jpg"
+    ],
+    "caption": "Sieben Sätze über Sattwerden.\n\nDer wichtigste zuerst: Das Sättigungssignal braucht rund 20 Minuten, bis es ankommt. Wer eine Mahlzeit in zehn Minuten isst, isst zehn Minuten lang an einem Körper vorbei, der schon satt ist. Das hat nichts mit Disziplin zu tun — das ist reine Verzögerung.\n\nDer dritte Punkt ist der, bei dem fast alle falsch liegen: Nicht die halbe Portion nehmen, sondern den kleineren Teller. Dieselbe Menge sieht darauf nach mehr aus, und dein Auge isst mit, ob du willst oder nicht. Eine halbe Portion auf großem Teller fühlt sich nach Verzicht an. Dieselbe Menge auf kleinem Teller fühlt sich nach Essen an.\n\nSattwerden ist kein Willensakt. Es ist eine Frage von Zeit, Reihenfolge und Tellergröße.\n\nWas davon machst du schon? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#sattwerden #sättigung #essverhalten #abnehmenohnediät #ernährungsumstellung #achtsamessen #gesundheitsakte"
+  },
   "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten."
 }
