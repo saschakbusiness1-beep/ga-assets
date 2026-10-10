@@ -1,7 +1,15 @@
 {
- "naechste": 20,
+ "naechste": 21,
  "letzter_post": "2026-10-09",
  "letzte_akte": 19,
- "bereit": null,
+ "bereit": {
+  "akte": 20,
+  "typ": "reel",
+  "titel": "Der Einkaufswagen",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte020/020_reel_v2.mp4"
+  ],
+  "caption": "Zwei Einkaufswagen, ungefähr derselbe Preis.\n\nLinks: Fertigpizza, Chips, Softdrinks, Fruchtjoghurt. Rechts: Haferflocken, Eier, Skyr, Hähnchen, Gemüse, Reis.\n\nMit dem rechten Wagen kochst du fünf Tage. Mit dem linken hast du drei Abende überbrückt.\n\n„Gesund essen ist teuer“ stimmt für Superfood-Pulver und Bio-Fertiggerichte. Für Haferflocken, Eier und Tiefkühlgemüse stimmt es nicht.\n\nSpeicher dir das für Samstag.\n\n—\nBild- und Videomaterial KI-generiert.\n\n#einkaufsliste #gesundessen #mealprep #günstigkochen #haferflocken #lebensmittelpreise #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten."
 }
