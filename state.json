@@ -1,7 +1,15 @@
 {
- "naechste": 24,
+ "naechste": 25,
  "letzter_post": "2026-10-13",
  "letzte_akte": 23,
- "bereit": null,
+ "bereit": {
+  "akte": 24,
+  "typ": "reel",
+  "titel": "Die Treppe",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte024/reel.mp4"
+  ],
+  "caption": "Treppe statt Aufzug — aber nicht wegen der Kalorien.\n\nZwei Stockwerke verbrennen fast nichts. Interessant ist etwas anderes: Treppensteigen belastet Beinmuskulatur und Kreislauf kurz und intensiv. Genau dieser Reiz fehlt in einem Alltag, der sonst nur aus Gehen und Sitzen besteht.\n\nZwölfmal am Tag, fünf Tage die Woche, ergibt in Summe mehr als eine Trainingseinheit — die du nie einplanen musstest.\n\nSpeicher dir das für morgen früh im Büro.\n\n—\nBild- und Videomaterial KI-generiert.\n\n#treppensteigen #alltagsbewegung #bewegungimalltag #ausdauer #kleineschritte #gesundbleiben #büroalltag #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten."
 }
