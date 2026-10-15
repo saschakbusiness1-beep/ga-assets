@@ -1,7 +1,15 @@
 {
- "naechste": 25,
+ "naechste": 26,
  "letzter_post": "2026-10-14",
  "letzte_akte": 24,
- "bereit": null,
+ "bereit": {
+  "akte": 25,
+  "typ": "bild",
+  "titel": "Die Packungsrückseite",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte025/01.jpg"
+  ],
+  "caption": "12 Gramm Zucker. Klingt vertretbar.\n\nBis du zwei Zeilen tiefer schaust: pro Portion. Und die Portion ist mit 25 Gramm angegeben.\n\n25 Gramm Müsli sind zwei Esslöffel. Niemand isst zwei Esslöffel Müsli. Eine normale Schüssel sind eher 80 bis 100 Gramm — und damit landest du bei rund 40 bis 48 Gramm Zucker, bevor die Milch dazukommt.\n\nDas ist nicht illegal und auch nicht versteckt. Es steht da. Es steht nur klein da, und es steht neben der Zahl, die groß aussieht.\n\nDeshalb ist die wichtigste Angabe auf jeder Packung nicht der Zuckergehalt. Es ist die Portionsgröße daneben.\n\nSchau heute Abend mal auf eine Packung bei dir. Was steht da? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#zucker #müsli #nährwerte #etikett #portionsgröße #zuckerfalle #bewusstessen #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten."
 }
