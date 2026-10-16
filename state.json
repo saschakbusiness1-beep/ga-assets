@@ -1,7 +1,24 @@
 {
- "naechste": 26,
+ "naechste": 27,
  "letzter_post": "2026-10-15",
  "letzte_akte": 25,
- "bereit": null,
+ "bereit": {
+  "akte": 26,
+  "typ": "karussell",
+  "titel": "30 Gramm",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte026/01.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte026/02.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte026/03.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte026/04b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte026/05b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte026/06.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte026/07.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte026/08.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte026/09.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte026/10.jpg"
+  ],
+  "caption": "Sie aß jeden Tag Salat und hatte trotzdem ständig Verdauungsprobleme.\n\nSie aß mehr Gemüse als die meisten — Salat zum Mittag, Obst am Nachmittag. Die Beschwerden kamen trotzdem, und sie wurden schlimmer, je gesünder sie aß. Zwei Unverträglichkeitstests: beide unauffällig.\n\nEs lag daran, dass Salat weniger liefert, als er aussieht. Empfohlen werden rund 30 Gramm Ballaststoffe am Tag, sie kam auf etwa 12. Salat besteht überwiegend aus Wasser — drei Schüsseln Eisbergsalat liefern weniger als eine Portion Linsen.\n\nDie großen Quellen sind die unauffälligen: Hülsenfrüchte, Vollkorn, Haferflocken, Nüsse.\n\nWichtig, sonst geht es nach hinten los: langsam steigern und mehr trinken. Wer von 12 auf 30 Gramm springt, hat erst mal mehr Beschwerden, nicht weniger.\n\nSie hat nichts weggelassen. Sie hat dazugelegt. Nach sechs Wochen war Ruhe.\n\nEs fehlten keine Regeln. Es fehlten 18 Gramm.\n\nDieser Beitrag informiert und ersetzt keine ärztliche Abklärung.\n\n—\nBild- und Videomaterial KI-generiert.\n\n#ballaststoffe #verdauung #darmgesundheit #blähbauch #hülsenfrüchte #haferflocken #ernährungsumstellung #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten."
 }
