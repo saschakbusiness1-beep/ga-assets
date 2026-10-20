@@ -1,7 +1,24 @@
 {
- "naechste": 30,
+ "naechste": 31,
  "letzter_post": "2026-10-19",
  "letzte_akte": 29,
- "bereit": null,
+ "bereit": {
+  "akte": 30,
+  "typ": "karussell",
+  "titel": "30 Tage in sieben Sätzen",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte030/01.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte030/02.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte030/03.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte030/04.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte030/05.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte030/06.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte030/07.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte030/08.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte030/09.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte030/10.jpg"
+  ],
+  "caption": "30 Tage Gesundheitsakte in sieben Sätzen.\n\nWenn du eine Sache aus diesem Monat mitnimmst, dann die: Kein einziger Fall wurde durch mehr Disziplin gelöst.\n\nDer Espresso musste nicht weg — er musste drei Stunden früher. Der Rücken brauchte keine neue Übung — er brauchte alle 30 Minuten zwei Minuten Stehen. Der Salat war nicht falsch — es fehlten 18 Gramm Ballaststoffe. Jedes Mal war die Antwort ein anderer Zeitpunkt oder ein zusätzlicher Baustein, nie mehr Willenskraft.\n\nDas ist auch der Grund, warum die meisten Pläne scheitern. Sie verlangen mehr von einer Ressource, die schon knapp ist.\n\nDanke, dass du 30 Tage dabei warst. Es geht weiter.\n\nWelcher Fall ist dir geblieben? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#gewohnheiten #gesundleben #routine #zeitpunkt #gesundheitswissen #alltagstauglich #kleineschritte #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten."
 }
