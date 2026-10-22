@@ -1,7 +1,24 @@
 {
- "naechste": 32,
+ "naechste": 33,
  "letzter_post": "2026-10-21",
  "letzte_akte": 31,
- "bereit": null,
+ "bereit": {
+  "akte": 32,
+  "typ": "karussell",
+  "titel": "Sieben Sätze für unterwegs",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte032/01b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte032/02.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte032/03.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte032/04.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte032/05.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte032/06.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte032/07.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte032/08b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte032/09.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte032/10.jpg"
+  ],
+  "caption": "Sieben Sätze für alles, was du nicht selbst gekocht hast.\n\nDer siebte ist der, den kaum jemand auf dem Zettel hat: Wer auswärts absichtlich wenig isst, holt es abends in der Küche nach. Die Rechnung geht trotzdem nicht auf — nur später und unbeobachtet.\n\nZwei Punkte entscheiden mehr als alle anderen.\n\nDie Soße: Beim Salat steckt der größere Teil der Energie im Dressing, nicht im Gemüse. Daneben bestellt nimmst du etwa die Hälfte, ohne dass es dir auffällt.\n\nUnd der Zeitpunkt: Fünf Stunden ohne Essen und dann die erste Theke, die kommt — das ist keine Entscheidung mehr. Das ist Hunger, der für dich bestellt.\n\nUnterwegs entscheidet nicht dein Wille. Es entscheidet, was vorher schon entschieden war.\n\nWelcher Punkt trifft dich unterwegs? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#essenunterwegs #kantine #restaurant #gesundessen #alltagstauglich #eiweiss #abnehmenohnediaet #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten."
 }
