@@ -1,7 +1,15 @@
 {
- "naechste": 33,
+ "naechste": 34,
  "letzter_post": "2026-10-22",
  "letzte_akte": 32,
- "bereit": null,
- "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten."
+ "bereit": {
+  "akte": 33,
+  "typ": "reel",
+  "titel": "Erst Schlaf. Dann Disziplin.",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte033/a033.mp4"
+  ],
+  "caption": "Du hast nicht zu wenig Disziplin. Du hattest zu wenig Schlaf.\n\nDer Hunger am Tag nach einer kurzen Nacht ist kein Charakterfehler. Er ist ein Signal.\n\nZwei Hormone steuern das: Ghrelin meldet Hunger, Leptin meldet Sättigung. Nach zu kurzen Nächten steigt das eine und fällt das andere. Dein Körper verlangt Energie, weil er die Nacht als Mangel verbucht hat.\n\nUnd das lässt sich messen: Nach verkürzten Nächten essen Menschen im Schnitt rund 250 bis 350 Kalorien mehr am Folgetag. Ohne es zu merken.\n\nDer Appetit ist dabei nicht diffus. Er wird gezielter: Kohlenhydrate, Zucker, Fett. Schnelle Energie.\n\nDeshalb kippt der Plan so oft abends. Nicht weil der Plan falsch war. Sondern weil er gegen ein Signal arbeitet, das stärker ist als Vorsatz.\n\nErst Schlaf. Dann Disziplin.\n\nWie sieht dein Tag nach einer kurzen Nacht aus? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#schlaf #hunger #abnehmen #ghrelin #leptin #gesundleben #disziplin #gesundheitsakte"
+ },
+ "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]."
 }
