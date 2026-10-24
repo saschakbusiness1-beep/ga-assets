@@ -1,24 +1,7 @@
 {
  "naechste": 35,
- "letzter_post": "2026-10-23",
- "letzte_akte": 33,
- "bereit": {
-  "akte": 34,
-  "typ": "karussell",
-  "titel": "Acht Stunden Schlaf und morgens trotzdem leer",
-  "bilder": [
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte034/01.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte034/02.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte034/03.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte034/04.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte034/05.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte034/06.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte034/07.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte034/08.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte034/09.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte034/10.jpg"
-  ],
-  "caption": "Acht Stunden Schlaf. Und morgens trotzdem leer.\n\n47, viermal Training pro Woche, seit Februar dasselbe Programm. Die Gewichte standen seit Mai.\n\nEs lag nicht am Training — eine Woche Deload änderte nichts. Und nicht an der Schlafdauer — seine Uhr zeigte fast jede Nacht acht Stunden.\n\nDer Hinweis stand in seinem Ruhepuls: In zwei Nächten pro Woche lag er deutlich höher. Immer Freitag und Samstag. Zwei Bier, drei Bier. Für ihn keine Erwähnung wert.\n\nAlkohol bringt dich schneller ins Bett, aber nicht in die Erholung. In der ersten Nachthälfte bricht der Tiefschlaf weg, der REM-Schlaf wird nach hinten gedrängt und gekappt. Und solange der Körper abbaut, bleibt der Puls hoch und die Herzratenvariabilität niedrig. Die Nacht wird zur Schicht statt zur Pause.\n\nGenau in dieser Nacht passiert der Muskelaufbau nach dem Training. Der Reiz kam an. Die Antwort nicht.\n\nSeine eine Änderung: letztes Glas vier Stunden vor dem Bett. Weniger ist trotzdem besser — aber die Uhrzeit war bei ihm der größere Hebel.\n\nWelche Nacht ist deine schlechteste in der Woche? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#alkohol #schlaf #erholung #ruhepuls #muskelaufbau #regeneration #tiefschlaf #training #gesundheitsakte"
- },
+ "letzter_post": "2026-10-24",
+ "letzte_akte": 34,
+ "bereit": null,
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]."
 }
