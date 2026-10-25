@@ -1,7 +1,24 @@
 {
- "naechste": 35,
+ "naechste": 36,
  "letzter_post": "2026-10-24",
  "letzte_akte": 34,
- "bereit": null,
+ "bereit": {
+  "akte": 35,
+  "typ": "karussell",
+  "titel": "130 Gramm Eiweiss am Tag",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte035/01.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte035/02.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte035/03.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte035/04.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte035/05.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte035/06.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte035/07.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte035/08.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte035/09.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte035/10.jpg"
+  ],
+  "caption": "130 Gramm Eiweiß am Tag. Und kein Gramm Muskel mehr.\n\n41, dreimal Training pro Woche seit Mai. Die App zeigte jeden Tag rund 130 Gramm Eiweiß — etwa 1,6 Gramm pro Kilo. Sauber dokumentiert. Und fünf Monate lang kein Zentimeter mehr.\n\nEs lag nicht an der Menge und nicht am Training. Die Technik stand, der Plan blieb sechs Wochen gleich, der Schlaf war in Ordnung. Rechnerisch stimmte alles.\n\nDer Hinweis stand in der Uhrzeit: Zwischen 18 und 21 Uhr aß er fast sein ganzes Eiweiß. Morgens nur Kaffee, mittags ein Brötchen auf die Hand. 100 von 130 Gramm lagen in drei Stunden.\n\nMuskelaufbau wird aber pro Mahlzeit gestartet, nicht pro Tag. Jede eiweißreiche Mahlzeit löst einen Aufbau-Reiz aus, der ein paar Stunden läuft und dann wieder abfällt. Keine Mahlzeit, kein Reiz.\n\nUnd dieser Reiz hat eine Decke. Etwa 25 bis 40 Gramm gutes Eiweiß pro Mahlzeit reizen den Aufbau voll aus. Was deutlich darüber liegt, ist nicht verschwendet — es wird nur eher zu Energie als zu Muskel.\n\nEin großer Teller am Abend ist ein Signal. Vier verteilte Mahlzeiten sind vier.\n\nSeine eine Änderung: 30 Gramm Eiweiß zum Frühstück — Quark, Skyr oder Eier. Abends dafür weniger. Gleiche Menge am Tag, doppelt so viele Reize. Nach acht Wochen ging die Hantel wieder hoch.\n\nDie Tagesmenge bleibt das Wichtigste. Aber wenn die stimmt und trotzdem nichts passiert, lohnt der Blick auf die Verteilung.\n\nWie viel Eiweiß liegt bei dir vor 12 Uhr? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#eiweiss #protein #muskelaufbau #krafttraining #ernaehrung #fruehstueck #abnehmen #stoffwechsel #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]."
 }
