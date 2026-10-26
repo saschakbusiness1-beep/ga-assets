@@ -1,7 +1,24 @@
 {
- "naechste": 36,
+ "naechste": 37,
  "letzter_post": "2026-10-25",
  "letzte_akte": 35,
- "bereit": null,
+ "bereit": {
+  "akte": 36,
+  "typ": "karussell",
+  "titel": "Sieben Monate Laufen. Und nach zwei Minuten gehen.",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte036/01.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte036/02b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte036/03.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte036/04.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte036/05b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte036/06.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte036/07.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte036/08.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte036/09.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte036/10.jpg"
+  ],
+  "caption": "Sieben Monate Laufen. Und nach zwei Minuten gehen.\n\n34, dreimal pro Woche seit April. Immer dieselbe Runde, immer dieselbe Stelle: Nach zwei Minuten brennt die Lunge, dann muss sie gehen. Im Oktober war es wie im April.\n\nEs lag nicht an der Lunge — der Check beim Arzt war in Ordnung, Asthma ausgeschlossen. Und untrainiert war sie nicht. Im Kraftraum ging alles hoch.\n\nDer Hinweis stand in ihrem Puls: 21 von 24 Minuten über 170. Jede Einheit, jede Woche. Sie lief jedes Training wie einen Wettkampf — und dachte, genau das sei Training.\n\nAusdauer entsteht aber im langsamen Tempo. Bei niedriger Belastung baut der Körper die Grundlage: mehr Mitochondrien in der Muskelzelle, mehr Kapillaren, mehr Blut pro Herzschlag. Das ist der Motor, der später das Tempo trägt.\n\nIm roten Bereich kommt dieser Aufbau kaum zum Zug. Die Atmung wird hochgerissen, das Laktat steigt, und die Einheit ist vorbei, bevor der Reiz für die Grundlage lange genug anlag. Dazu kommt: Wer immer hart läuft, startet jede Einheit schon müde.\n\nIhre eine Änderung: zwei von drei Läufen im Plauderton. Ganze Sätze müssen möglich sein, auch wenn es sich nach zu wenig anfühlt. Nur eine Einheit pro Woche blieb schnell.\n\nNach acht Wochen lief sie dieselbe Runde bei deutlich niedrigerem Puls. Ohne Gehpause.\n\nSchnelle Einheiten sind nicht falsch. Sie wirken nur, wenn darunter eine Grundlage liegt. Eine bis zwei pro Woche reichen dafür.\n\nWie oft läufst du so langsam, dass Reden geht? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#laufen #ausdauer #joggen #puls #herzfrequenz #laufanfaenger #grundlagenausdauer #training #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]."
 }
