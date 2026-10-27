@@ -1,15 +1,7 @@
 {
  "naechste": 38,
- "letzter_post": "2026-10-26",
- "letzte_akte": 36,
- "bereit": {
-  "akte": 37,
-  "typ": "reel",
-  "titel": "Zwei Prozent weniger Wasser",
-  "bilder": [
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte037/a037.mp4"
-  ],
-  "caption": "Zwei Prozent weniger Wasser. Und dein Training ist messbar schlechter.\n\nBei 80 Kilo sind das 1,6 Liter. So viel verlierst du an einem warmen Tag auch ohne Training — über Atmung, Haut und Toilette.\n\nWas dann passiert, ist einfache Mechanik: Weniger Wasser heißt weniger Blutvolumen. Das Herz pumpt pro Schlag weniger, also schlägt es schneller für dasselbe Tempo. Dein Puls liegt höher, obwohl du nicht schneller läufst.\n\nDazu kippt die Kühlung. Weniger Schweiß kühlt schlechter, die Körpertemperatur steigt, und die Belastung fühlt sich härter an, ohne dass mehr Leistung dabei herauskommt.\n\nUnd Durst meldet sich zu langsam. Er kommt erst, wenn schon ein Teil fehlt. Wer erst trinkt, wenn er Durst hat, trinkt im Training immer hinterher.\n\nDie eine Änderung: ein halber Liter etwa 30 Minuten vorher. Bei langen oder schweißtreibenden Einheiten alle 15 bis 20 Minuten ein paar Schlucke.\n\nMehr ist nicht automatisch besser — Liter über Liter bringen nichts außer Pausen. Es geht darum, nicht schon mit einem Rückstand anzufangen.\n\nWie viel trinkst du vor dem Training? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#trinken #wasser #hydration #leistung #training #puls #ausdauer #fitnesswissen #gesundheitsakte"
- },
+ "letzter_post": "2026-10-27",
+ "letzte_akte": 37,
+ "bereit": null,
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]."
 }
