@@ -1,24 +1,7 @@
 {
  "naechste": 39,
- "letzter_post": "2026-10-27",
- "letzte_akte": 37,
- "bereit": {
-  "akte": 38,
-  "typ": "karussell",
-  "titel": "Sieben Sätze über Dehnen",
-  "bilder": [
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte038/01b.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte038/02c.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte038/03.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte038/04.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte038/05.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte038/06.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte038/07b.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte038/08.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte038/09.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte038/10.jpg"
-  ],
-  "caption": "Sieben Sätze über Dehnen.\n\nDer erste ordnet den Rest: Dehnen ist kein Aufwärmen. Aufwärmen hebt Muskeltemperatur und Puls. Langes Halten direkt vor dem Satz senkt dagegen kurzfristig Kraft und Sprungkraft. Der Effekt ist klein — er zeigt nur in die falsche Richtung.\n\nWarm wirst du in Bewegung. Fünf bis zehn Minuten, jedes Gelenk einmal durch den ganzen Weg. Danach zwei leichte Sätze der Übung, die ansteht. Der Körper braucht das Muster, nicht nur die Temperatur.\n\nDer siebte Satz ist der, bei dem fast alle falsch liegen: Dehnen senkt Muskelkater kaum und schützt nicht vor Verletzungen. Was schützt, ist eine Belastung, die in kleinen Schritten wächst. Nicht die zwei Minuten davor.\n\nTrotzdem ist Dehnen nicht umsonst. Es macht beweglich — wenn du es regelmäßig machst. Zwei Minuten pro Stelle an fünf Tagen bringen mehr als eine halbe Stunde am Sonntag. Am besten nach dem Training oder als eigene kurze Einheit.\n\nUnd du musst nicht alles dehnen. Beweglichkeit ist stellenabhängig: Wer acht Stunden sitzt, ist vorn in der Hüfte und in der Brust kurz, nicht überall.\n\nDazu kommt der Teil, den kaum jemand nutzt: Krafttraining über den ganzen Bewegungsumfang macht ähnlich beweglich wie Dehnen. Und es hält, weil Kraft die Stellung trägt.\n\nDehnst du vorher, nachher oder gar nicht? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#dehnen #beweglichkeit #aufwaermen #mobility #stretching #krafttraining #muskelkater #training #fitnesswissen #gesundheitsakte"
- },
+ "letzter_post": "2026-10-28",
+ "letzte_akte": 38,
+ "bereit": null,
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]."
 }
