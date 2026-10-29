@@ -1,24 +1,7 @@
 {
  "naechste": 40,
- "letzter_post": "2026-10-28",
- "letzte_akte": 38,
- "bereit": {
-  "akte": 39,
-  "typ": "karussell",
-  "titel": "Zwei neue Laufschuhe. Der Schmerz blieb.",
-  "bilder": [
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte039/01b.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte039/02.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte039/03.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte039/04.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte039/05b.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte039/06.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte039/07.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte039/08.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte039/09.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte039/10.jpg"
-  ],
-  "caption": "Zwei neue Laufschuhe. Der Schmerz blieb.\n\n38, läuft seit Juni. Seit September sticht es morgens unter der Ferse — beim ersten Schritt aus dem Bett. Nach ein paar Minuten lässt es nach, beim Laufen merkt er fast nichts, abends kommt es zurück.\n\nEr kaufte zwei neue Paare. Beide ordentlich ausgesucht, beide ohne Wirkung. Der Arzt fand keine Fehlstellung und keinen Riss. Die Ferse war gereizt, nicht kaputt.\n\nDie Antwort stand in seinem Laufheft. Juni und Juli: zweimal pro Woche, rund 15 Kilometer. Ab Mitte September: viermal pro Woche, 35 Kilometer. In einer Woche mehr als verdoppelt. Der Schmerz kam zwölf Tage später.\n\nDas ist der Teil, den fast alle übersehen: Puls und Lunge gewöhnen sich in Wochen an mehr. Sehnen, Faszien und Knochen brauchen Monate. Sie sind schlechter durchblutet und bauen langsamer um. Deshalb fühlt sich mehr möglich an, als das Gewebe mitgeht — die Kondition läuft dem Material davon.\n\nUnter der Ferse spannt die Plantarfaszie vom Fersenbein bis zu den Zehen und federt bei jedem Schritt. Nachts steht sie verkürzt. Morgens zieht der erste Schritt sie auf Länge — deshalb sticht es früh am stärksten und beim Laufen oft gar nicht.\n\nSeine eine Änderung: zurück auf 20 Kilometer pro Woche, danach etwa zehn Prozent mehr pro Woche. Dazu zweimal pro Woche Wadenheben, langsam und über den ganzen Bewegungsweg. Die Schuhe blieben, wie sie waren.\n\nDie zehn Prozent sind ein Richtwert, keine Regel. Manche vertragen mehr, manche weniger. Entscheidend ist, dass gesteigert wird und nicht gesprungen. Und wenn der Schmerz über Wochen bleibt oder schlimmer wird, gehört er abgeklärt.\n\nWann bist du zuletzt im Umfang gesprungen? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#fersenschmerz #plantarfasziitis #laufen #joggen #laufschuhe #ueberlastung #trainingsaufbau #laufverletzung #fitnesswissen #gesundheitsakte"
- },
+ "letzter_post": "2026-10-29",
+ "letzte_akte": 39,
+ "bereit": null,
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]."
 }
