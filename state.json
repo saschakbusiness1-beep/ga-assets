@@ -1,7 +1,15 @@
 {
- "naechste": 40,
+ "naechste": 41,
  "letzter_post": "2026-10-29",
  "letzte_akte": 39,
- "bereit": null,
- "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]."
+ "bereit": {
+  "akte": 40,
+  "typ": "bild",
+  "titel": "Ohne Zuckerzusatz",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte040/01.jpg"
+  ],
+  "caption": "Ohne Zuckerzusatz. Und 22 Gramm Zucker im Glas.\n\nBeides steht auf derselben Flasche, und beides stimmt. Zugesetzt wurde nichts. Drin ist er trotzdem — er kommt aus der Frucht.\n\nOrangensaft hat rund 9 Gramm Zucker pro 100 Milliliter. Ein normales Glas sind 250 Milliliter, also etwa 22 Gramm. Ein Glas Cola liegt bei rund 26. Das ist der ganze Abstand: vier Gramm.\n\nDer Unterschied zur Orange ist nicht der Zucker. Es sind die Ballaststoffe und die Zeit. Eine Orange musst du schälen und kauen, sie dauert ein paar Minuten und macht satt. Ein Glas Saft ist in zwanzig Sekunden weg und zählt im Kopf nicht als Essen. Zwei Gläser am Tag sind rund 220 Kalorien, die niemand mitrechnet.\n\nSaft ist deshalb nicht schlecht. Er hat Vitamine, und wenn er in deinen Tag passt, passt er in deinen Tag. Er ist nur ein Getränk nach Gefühl und eine Süßigkeit nach Nährwert.\n\nDie eine Änderung: Saft zum Genuss, nicht gegen den Durst. Gegen den Durst Wasser. Für die Frucht die Frucht.\n\nUnd fürs Regal: „Ohne Zuckerzusatz“ sagt nichts darüber, wie viel Zucker drin ist. Es sagt nur, dass keiner dazugekommen ist.\n\nTrinkst du Saft zum Essen? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#zucker #orangensaft #fruchtsaft #ohnezuckerzusatz #fluessigekalorien #ernaehrung #abnehmen #etikett #fitnesswissen #gesundheitsakte"
+ },
+ "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]. Bei typ=bild: image_url aus bilder[0]."
 }
