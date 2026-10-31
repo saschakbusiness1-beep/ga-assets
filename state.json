@@ -1,15 +1,7 @@
 {
  "naechste": 42,
- "letzter_post": "2026-10-30",
- "letzte_akte": 40,
- "bereit": {
-  "akte": 41,
-  "typ": "reel",
-  "titel": "Zwei Wochen Pause. Und der Muskel bleibt.",
-  "bilder": [
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte041/a041b.mp4"
-  ],
-  "caption": "Zwei Wochen Pause. Und der Muskel bleibt.\n\nDer Urlaub ist der Moment, in dem die meisten Angst um ihre Fortschritte haben. Nach fünf Tagen sieht der Arm im Spiegel flacher aus, und im Kopf sind die Monate schon weg.\n\nWas du da siehst, ist Wasser. Ohne Training sinkt der Glykogenspeicher im Muskel, und Glykogen bindet ungefähr das Dreifache seines Gewichts an Wasser. Der Muskel wird flacher, nicht kleiner. Nach zwei Einheiten ist das zurück.\n\nDie Kraft hält am längsten. Bei kompletter Pause ist nach zwei Wochen meist kaum etwas messbar — deutlich wird es eher ab der dritten bis vierten Woche. Die Kondition reagiert schneller: Der erste Abfall zeigt sich nach etwa zehn bis vierzehn Tagen. Dafür kommt sie auch schneller zurück.\n\nUnd dann der Teil, den kaum jemand kennt: Muskelzellen behalten die Zellkerne, die sie beim Aufbau dazubekommen haben. Deshalb geht der Wiedereinstieg schneller als der erste Aufbau. Du fängst nicht bei null an.\n\nDie eine Änderung: nichts erzwingen. Wenn du halten willst, reichen zwei kurze Einheiten mit dem eigenen Körpergewicht pro Woche. Wenn du wirklich frei haben willst, nimm dir die Zeit — zwei Wochen kosten dich keine Monate.\n\nDas gilt für zwei bis drei Wochen, nicht für ein halbes Jahr. Und es gilt für Pause, nicht für Verletzung: Nach einer Verletzung gelten andere Regeln.\n\nWie lang war deine längste Pause? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#trainingspause #urlaub #detraining #muskelabbau #krafttraining #wiedereinstieg #regeneration #muskelaufbau #fitnesswissen #gesundheitsakte"
- },
+ "letzter_post": "2026-10-31",
+ "letzte_akte": 41,
+ "bereit": null,
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]. Bei typ=bild: image_url aus bilder[0]."
 }
