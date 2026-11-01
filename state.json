@@ -1,24 +1,7 @@
 {
  "naechste": 43,
- "letzter_post": "2026-10-31",
- "letzte_akte": 41,
- "bereit": {
-  "akte": 42,
-  "typ": "karussell",
-  "titel": "Vier Jahre Walken. Der Blutdruck blieb.",
-  "bilder": [
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte042/01.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte042/02b.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte042/03.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte042/04.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte042/05.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte042/06b.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte042/07.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte042/08.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte042/09.jpg",
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte042/10.jpg"
-  ],
-  "caption": "Vier Jahre Ausdauer. Der Blutdruck blieb, wo er war.\n\n54, Bürojob. Der Arzt sagte: erst der Lebensstil. Sie hat geliefert — dreimal pro Woche 40 Minuten walken, weniger Salz, Gewicht stabil. In den ersten Monaten ging der Wert runter. Danach vier Jahre lang nichts mehr: 145 zu 92.\n\nEs lag nicht am Salz und nicht am Gewicht. Nieren und Schilddrüse waren geprüft, ohne Befund.\n\nGefehlt hat der Teil, den sie absichtlich gestrichen hatte: Krafttraining. Sie hatte gelesen, dass der Druck beim Drücken nach oben schießt — und seitdem keine Hantel mehr angefasst.\n\nDer Punkt dabei: Ausdauer trainiert vor allem die Pumpe. Krafttraining wirkt auf die Leitungen — mehr feine Gefäße im arbeitenden Muskel, eine Gefäßinnenwand, die sich besser weitstellt. Zwei verschiedene Reize, zwei verschiedene Baustellen. Deshalb bringt der zweite oft noch etwas, wenn der erste ausgereizt ist.\n\nUnd die Angst vorm Drücken? Der Druck im Satz ist nicht der Druck danach. Während der Wiederholung steigt er kurz an, in den Stunden danach liegt er niedriger als vorher. Kritisch wird es vor allem dann, wenn die Luft angehalten wird und das Gewicht zu schwer ist.\n\nIhre eine Änderung: zweimal pro Woche Krafttraining an Geräten, zehn bis zwölf Wiederholungen, ausatmen beim Drücken, nie bis zum letzten. Das Walken blieb. Nach vier Monaten stand ein anderer Wert auf dem Zettel.\n\nUnd die Grenze dazu, ehrlich: Training senkt den Ruhewert um ein paar Millimeter, nicht um zwanzig. Es ersetzt keine Behandlung, und Medikamente setzt niemand eigenmächtig ab. Wer sehr hohe Werte hat, klärt vorher mit dem Arzt, was geht.\n\nMachst du beides — oder nur eins davon? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#blutdruck #bluthochdruck #krafttraining #ausdauer #herzgesundheit #gesundheitab50 #training #praevention #fitnesswissen #gesundheitsakte"
- },
+ "letzter_post": "2026-11-01",
+ "letzte_akte": 42,
+ "bereit": null,
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]. Bei typ=bild: image_url aus bilder[0]."
 }
