@@ -1,7 +1,24 @@
 {
- "naechste": 43,
+ "naechste": 44,
  "letzter_post": "2026-11-01",
  "letzte_akte": 42,
- "bereit": null,
+ "bereit": {
+  "akte": 43,
+  "typ": "karussell",
+  "titel": "Zehn Prozent weniger auf der Stange",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte043/01.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte043/02.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte043/03.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte043/04.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte043/05.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte043/06.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte043/07.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte043/08.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte043/09b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte043/10c.jpg"
+  ],
+  "caption": "Zehn Prozent weniger auf der Stange. Bei gleichem Plan.\n\n44, Lagerleiter, Frühschicht ab halb sechs — losfahren im Dunkeln, heimkommen im Dunkeln. Training dreimal die Woche im Keller der Halle, seit Jahren derselbe Rhythmus. Ab Mitte Oktober ging nichts mehr: 80 Kilo fühlten sich an wie 90, die letzten Wiederholungen fielen weg, Treppen im Lager machten die Beine schwer. Muskelkater hatte er nie.\n\nAm Plan lag es nicht — eine Woche Pause änderte nichts. Schlaf, Gewicht und Essen waren unverändert. Blutbild, Ferritin und Schilddrüse waren beim Hausarzt in Ordnung.\n\nEin Wert war nicht mitgemessen worden: Vitamin D, 11 Nanogramm pro Milliliter. Und dann fiel das Muster auf. Es war der dritte Winter in Folge, immer dieselben Wochen. Im Sommer war die Schwäche weg.\n\nDer Punkt dabei: Vitamin D entsteht in der Haut, nicht auf dem Teller. Dafür braucht es UVB-Licht — und von Oktober bis März steht die Sonne hierzulande zu tief dafür. Das Licht reicht zum Sehen, nicht zur Produktion. Über das Essen kommt nur ein Bruchteil dazu, vor allem aus fettem Fisch. Den Rest zieht der Körper aus dem Speicher, und der leert sich über den Winter.\n\nWarum das die Kraft trifft: Muskelzellen haben eigene Andockstellen für Vitamin D. Bei einem deutlichen Mangel wird zuerst die rumpfnahe Muskulatur schwächer — Oberschenkel, Hüfte. Genau da hat er es gemerkt: Treppen, Kniebeugen, die letzten Wiederholungen.\n\nSeine eine Änderung: den Wert bestimmen lassen und nach Vorgabe der Ärztin auffüllen. Nicht nach Gefühl aus dem Regal. Nach sechs Wochen lagen die 80 Kilo wieder sauber.\n\nUnd die Grenze dazu, ehrlich: Vitamin D ist kein Energie-Mittel. Wer keinen Mangel hat, merkt vom Auffüllen nichts — es füllt ein Loch, es packt nichts drauf. Zu viel ist nicht harmlos. Deshalb gilt: erst messen, dann dosieren, und das mit dem Arzt. Müdigkeit und Kraftverlust haben außerdem viele Ursachen. Das hier war eine davon.\n\nWeißt du deinen Wert? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#vitamind #wintermuedigkeit #kraftverlust #krafttraining #muedigkeit #blutwerte #schichtarbeit #gesundheitimwinter #fitnesswissen #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]. Bei typ=bild: image_url aus bilder[0]."
 }
