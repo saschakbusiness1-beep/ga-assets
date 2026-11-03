@@ -1,7 +1,24 @@
 {
- "naechste": 44,
+ "naechste": 45,
  "letzter_post": "2026-11-02",
  "letzte_akte": 43,
- "bereit": null,
+ "bereit": {
+  "akte": 44,
+  "typ": "karussell",
+  "titel": "Sieben Sätze über die Waage",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte044/01.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte044/02.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte044/03.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte044/04.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte044/05.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte044/06c.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte044/07.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte044/08.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte044/09c.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte044/10.jpg"
+  ],
+  "caption": "Sieben Sätze über die Waage.\n\nSechs davon ändern nur, wie du die Zahl liest. Beim siebten hören die meisten auf zu messen — genau in dem Moment, in dem es wichtig wird.\n\n1. Wieg dich morgens, nicht abends. Nach dem Aufstehen, nach der Toilette, vor dem ersten Schluck. Abends wiegst du den Tag mit: ein Liter getrunkenes Wasser ist ein Kilo auf der Anzeige.\n\n2. Wieg dich jeden Tag, nicht einmal die Woche. Ein einziger Wert pro Woche kann genau der Ausschlag sein. Wer täglich draufsteigt, sieht eine Linie statt einen Punkt.\n\n3. Nimm den Wochenschnitt, nicht den Tageswert. Zwischen zwei Morgen liegen ein bis zwei Kilo Wasser, Salz und Darminhalt. Vergleiche den Schnitt aus sieben Tagen mit dem der Vorwoche. Alles andere ist Rauschen.\n\n4. Rechne mit dem Salz, nicht mit dem Fett. Pizza am Abend, ein Kilo mehr am Morgen: Salz bindet Wasser, nach zwei bis drei Tagen ist es weg. Ein Kilo Fett wären rund 7000 Kalorien über deinem Bedarf — das schafft kein Abendessen.\n\n5. Miss auch den Umfang, nicht nur das Gewicht. Bauchumfang auf Nabelhöhe, einmal pro Woche, morgens im Stehen. Es gibt Wochen, in denen die Zahl steht und der Umfang trotzdem kleiner wird.\n\n6. Erwarte den Stillstand, nicht die gerade Linie. Abnehmen läuft in Stufen, nicht als Gerade: Wochen mit Bewegung, dann eine Woche Stillstand bei gleichem Defizit. Bei Frauen kommt der Zyklus dazu — ein bis zwei Kilo vor der Periode sind normal.\n\n7. Wieg dich weiter, nicht nur wenn es runtergeht. Der häufigste Abbruch ist nicht die Diät, sondern das Messen. Die Zahl geht hoch, die Waage wandert unters Bett. Wer weiter wiegt, merkt zwei Kilo. Wer aufhört, merkt es an der Hose — und dann sind es fünf.\n\nDer Satz dahinter: Eine Zahl ist ein Moment. Erst viele sind eine Richtung.\n\nUnd die Grenze dazu, ehrlich: Für manche ist die tägliche Waage Gift. Wenn die Zahl über deine Laune entscheidet, ist seltener messen die bessere Entscheidung — dann reichen der Umfang und wie die Hose sitzt. Die Waage ist ein Werkzeug, keine Note.\n\nWie oft steigst du drauf? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#waage #abnehmen #gewichtsschwankungen #abnehmtipps #kaloriendefizit #gesundabnehmen #stoffwechsel #gewicht #fitnesswissen #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]. Bei typ=bild: image_url aus bilder[0]."
 }
