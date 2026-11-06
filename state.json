@@ -1,15 +1,7 @@
 {
  "naechste": 46,
- "letzter_post": "2026-11-05",
- "letzte_akte": 44,
- "bereit": {
-  "akte": 45,
-  "typ": "reel",
-  "titel": "Ein Prozent Knochen pro Jahr",
-  "bilder": [
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte045/a045.mp4"
-  ],
-  "caption": "Ein Prozent Knochen pro Jahr.\n\nAb etwa 50 verliert dein Skelett ungefähr so viel — von allein, ohne dass du etwas falsch machst. Bei Frauen geht es in den ersten Jahren nach den Wechseljahren schneller. Und das Spazieren, das die meisten dagegensetzen, ändert daran wenig.\n\nKnochen ist kein Stein. Er ist lebendes Gewebe und wird ständig abgebaut und neu aufgebaut. Dein Skelett von heute ist nicht dasselbe wie vor zehn Jahren.\n\nEr baut, was er tragen muss. Zellen im Knochen registrieren, wie stark er sich unter Last verformt. Verformt er sich regelmäßig deutlich, lautet das Signal: nachlegen. Passiert nichts, wird abgebaut — der Körper hält nichts vor, was er nicht braucht.\n\nDeshalb reicht Gehen nicht. Gehen kennt dein Knochen seit Jahrzehnten, das ist kein neuer Reiz. Was zählt, liegt über dem Alltag: schwerer, kürzer, am besten im Stehen auf beiden Beinen. Kniebeuge, Kreuzheben, Schulterdrücken, Treppen mit Gewicht.\n\nUnd der Muskel zieht mit. Die größte Kraft, die an deinem Knochen zieht, ist nicht dein Körpergewicht — es ist deine eigene Sehne. Deshalb bringt Krafttraining doppelt: mehr Zug am Knochen, und mehr Kraft und Balance. Ein Knochen bricht fast nie im Stehen. Er bricht beim Fallen.\n\nUnd die Grenze dazu, ehrlich: Training baut keinen Knochen in Wochen auf. Umbau dauert Monate bis Jahre, und die Zuwächse sind klein — es geht vor allem darum, den Abbau zu bremsen. Wer eine bekannte Osteoporose hat, schon einen Bruch hatte oder Medikamente dafür nimmt, klärt vorher ärztlich ab, was geht; manche Bewegungen sind dann nicht ratsam. Und ohne genug Eiweiß, Kalzium und Vitamin D fehlt dem Knochen das Material, auch bei bestem Training.\n\nHebst du schwer — oder nur Einkaufstüten? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#knochendichte #osteoporose #krafttraining #knochengesundheit #gesundheitab50 #wechseljahre #praevention #trainingab40 #fitnesswissen #gesundheitsakte"
- },
+ "letzter_post": "2026-11-06",
+ "letzte_akte": 45,
+ "bereit": null,
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]. Bei typ=bild: image_url aus bilder[0]."
 }
