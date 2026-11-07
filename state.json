@@ -1,7 +1,15 @@
 {
- "naechste": 46,
+ "naechste": 47,
  "letzter_post": "2026-11-06",
  "letzte_akte": 45,
- "bereit": null,
+ "bereit": {
+  "akte": 46,
+  "typ": "bild",
+  "titel": "24 Gramm Eiweiß. Auf dem Teller neun.",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte046/01.jpg"
+  ],
+  "caption": "24 Gramm Eiweiß pro 100 Gramm. Auf dem Teller sind es neun.\n\nBeides steht auf derselben Packung, und beides stimmt. Die Nährwerte von Linsen, Bohnen und Kichererbsen gelten für 100 Gramm trocken — so wird die Ware verkauft, so wird sie deklariert.\n\nBeim Kochen ziehen Hülsenfrüchte Wasser. Aus 100 Gramm trocken werden rund 240 Gramm im Topf. Das Eiweiß bleibt dasselbe, das Gewicht wird mehr als doppelt so viel. In 100 Gramm gekochten Linsen stehen deshalb nur noch etwa 9 Gramm.\n\nBeim Fleisch läuft es andersherum. Hähnchenbrust verliert beim Braten Wasser, das Eiweiß rückt zusammen: aus rund 23 Gramm pro 100 Gramm roh werden etwa 30 pro 100 Gramm gebraten. Deshalb rechnen sich viele pflanzliche Portionen zu groß und tierische zu klein.\n\nWas das für den Teller heißt: 70 Gramm trockene Linsen sind rund 17 Gramm Eiweiß — und gekocht ein ordentlicher Haufen von etwa 170 Gramm. Das ist eine gute Portion. Nur eben keine 24 Gramm.\n\nUnd die Grenze dazu, ehrlich: Pflanzliches Eiweiß ist nicht das schlechtere. Es ist weniger dicht und etwas anders zusammengesetzt — weniger Leucin, etwas schlechter verwertbar. Daraus folgt kein Verzicht, sondern zwei Dinge: insgesamt etwas mehr davon, und kombinieren. Linsen mit Reis, Bohnen mit Brot, Kichererbsen mit Couscous. Zusammen decken sie ab, was einzeln fehlt.\n\nDie eine Änderung: Rechne mit dem Trockengewicht, nicht mit dem, was im Topf landet. Einmal abgewogen, und du weißt für immer, wie deine Portion aussieht.\n\nMerksatz fürs Regal: Die Zahl gilt trocken. Gegessen wird gekocht.\n\nWie viel Eiweiß hat deine Linsenportion wirklich? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#eiweiss #pflanzlichesprotein #linsen #huelsenfruechte #proteinbedarf #vegetarischkochen #ernaehrungswissen #muskelaufbau #fitnesswissen #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]. Bei typ=bild: image_url aus bilder[0]."
 }
