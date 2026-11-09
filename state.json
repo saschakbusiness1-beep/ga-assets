@@ -1,7 +1,24 @@
 {
- "naechste": 48,
+ "naechste": 49,
  "letzter_post": "2026-11-08",
  "letzte_akte": 47,
- "bereit": null,
+ "bereit": {
+  "akte": 48,
+  "typ": "karussell",
+  "titel": "Sieben Sätze über Muskelkater",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte048/01.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte048/02.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte048/03.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte048/04.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte048/05.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte048/06.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte048/07b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte048/08.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte048/09.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte048/10.jpg"
+  ],
+  "caption": "Sieben Sätze über Muskelkater.\n\nDer wichtigste zuerst: Muskelkater ist kein Zeugnis. Er misst, wie ungewohnt eine Belastung war — nicht, wie gut sie war. Wer ihn als Erfolgsmeldung braucht, wechselt dauernd die Übung und steigert nie.\n\nEr entsteht fast immer in der bremsenden Phase. Treppe runter, bergab laufen, die Hantel langsam ablegen: dort entstehen die kleinen Schäden im Muskel, nicht beim Hochdrücken. Mit Laktat hat das nichts zu tun — das ist nach Minuten wieder weg, der Kater kommt erst nach zwölf bis vierundzwanzig Stunden.\n\nDer Punkt, bei dem die meisten falsch liegen, ist das Eis. Kälte lindert kurz. Sie dämpft aber genau die Entzündung, aus der die Anpassung entsteht — direkt nach dem Krafttraining kostet das Eisbad also einen Teil vom Reiz. Warm halten und sich leicht bewegen bringt mehr: ein Spaziergang, locker radeln, zehn Minuten. Liegen macht ihn nicht heil, nur steifer.\n\nUnd beim nächsten Mal ist er ohnehin kleiner. Dieselbe Übung macht beim zweiten Mal deutlich weniger Kater. Das ist kein Nachlassen. Das ist dein Körper, der reagiert hat.\n\nUnd die Grenze dazu, ehrlich: Nicht jeder Schmerz nach dem Training ist Kater. Kater sitzt im Muskel, auf beiden Seiten, ist dumpf und wird nach dem Aufwärmen besser. Einseitig, stechend, im Gelenk, oder schlimmer je länger du weitermachst — das ist etwas anderes und gehört angesehen, nicht weggetrainiert. Und wer mit starkem Kater trainiert, nimmt die Last runter: Die Kraft ist dann messbar niedriger, und die Technik leidet als Erstes.\n\nMerksatz: Muskelkater ist keine Note. Er sagt nur, dass etwas neu war.\n\nWann hattest du den letzten richtig fiesen Kater — und wovon? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#muskelkater #krafttraining #regeneration #trainingswissen #fitnesswissen #muskelaufbau #fitnessmythen #trainingsplan #sportwissenschaft #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]. Bei typ=bild: image_url aus bilder[0]."
 }
