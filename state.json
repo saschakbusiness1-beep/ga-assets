@@ -1,15 +1,7 @@
 {
  "naechste": 50,
- "letzter_post": "2026-11-09",
- "letzte_akte": 48,
- "bereit": {
-  "akte": 49,
-  "typ": "reel",
-  "titel": "Dein Kaffee wirkt. Nur nicht im Muskel.",
-  "bilder": [
-   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte049/a049.mp4"
-  ],
-  "caption": "Dein Kaffee wirkt. Nur nicht im Muskel.\n\nKoffein macht dich nicht stärker. Es verändert, wie schwer sich dasselbe Gewicht anfühlt — und genau deshalb schaffst du damit die eine Wiederholung mehr.\n\nWie das funktioniert: Über den Tag sammelt sich im Gehirn ein Stoff namens Adenosin. Das ist dein Müdigkeitssignal — je mehr davon andockt, desto schwerer fühlt sich alles an. Koffein passt auf dieselbe Stelle und setzt sich davor. Das Signal ist noch da. Es kommt nur nicht an.\n\nDie Menge: Rund 3 Milligramm pro Kilo Körpergewicht reichen. Bei 70 Kilo sind das etwa 200 Milligramm, also zwei Tassen Filterkaffee. Mehr bringt kaum zusätzliche Leistung, aber zuverlässig mehr Unruhe, Zittrigkeit und Herzklopfen.\n\nBeim Zeitpunkt liegen die meisten daneben. Der Spiegel im Blut steigt erst nach etwa 30 bis 60 Minuten auf sein Maximum. Wer den Kaffee in der Umkleide trinkt, hat die volle Wirkung im letzten Satz — oder auf dem Heimweg. Trink ihn, bevor du losfährst.\n\nUnd wenn du ohnehin täglich trinkst: Das Wachwerden merkst du irgendwann kaum noch, daran gewöhnt sich der Körper. Die Leistung zieht er trotzdem noch hoch, der Schub ist nur nicht mehr spürbar. Du brauchst also keine Koffeinpause, damit es wieder wirkt.\n\nUnd die Grenze dazu, ehrlich: Koffein ersetzt keinen Schlaf, es verdeckt nur, dass er fehlt. Dazu baut es sich langsam ab — nach rund fünf Stunden ist noch etwa die Hälfte im Blut. Ein Kaffee um 17 Uhr liegt um 22 Uhr noch im Körper, und wer abends trainiert, zahlt die Leistung von heute womöglich mit der Nacht. Wer empfindlich reagiert, Herzprobleme hat oder schwanger ist, geht andersherum ran: weniger statt mehr.\n\nDie eine Änderung: Nicht mehr Kaffee. Nur früher.\n\nMerksatz: Koffein macht die Last nicht leichter. Es macht sie erträglicher.\n\nWann trinkst du deinen vor dem Training? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#koffein #kaffee #preworkout #trainingswissen #fitnesswissen #krafttraining #sportwissenschaft #leistungssteigerung #ernaehrungswissen #gesundheitsakte"
- },
+ "letzter_post": "2026-11-10",
+ "letzte_akte": 49,
+ "bereit": null,
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]. Bei typ=bild: image_url aus bilder[0]."
 }
