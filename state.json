@@ -1,7 +1,24 @@
 {
- "naechste": 50,
+ "naechste": 51,
  "letzter_post": "2026-11-10",
  "letzte_akte": 49,
- "bereit": null,
+ "bereit": {
+  "akte": 50,
+  "typ": "karussell",
+  "titel": "Sechs Monate ohne Eier. Der Wert blieb.",
+  "bilder": [
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte050/01.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte050/02b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte050/03b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte050/04.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte050/05.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte050/06.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte050/07.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte050/08b.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte050/09.jpg",
+   "https://raw.githubusercontent.com/saschakbusiness1-beep/ga-assets/main/akte050/10.jpg"
+  ],
+  "caption": "Sechs Monate ohne Eier. Und der Wert blieb.\n\n52, Außendienst, viel Auto. Nach dem Befund im Januar hat er das Frühstücksei gestrichen, das Rührei am Wochenende auch. Durchgezogen, ohne Ausnahme. Im Juli stand auf dem Zettel LDL 164 — im Januar waren es 168.\n\nAm Rest lag es nicht: Er raucht nicht, trinkt wenig, das Gewicht war stabil, Schilddrüse, Nieren und Leberwerte ohne Befund. Dreimal pro Woche eine Stunde mit dem Hund.\n\nDann hat er eine Woche lang aufgeschrieben, was er isst. Kein einziges Ei — aber rund 45 Gramm gesättigtes Fett am Tag, aus Butter, Käse und Wurst. Und fast keine Ballaststoffe: kein Vollkorn, keine Hülsenfrüchte, Gemüse zweimal in der Woche.\n\nWarum das Ei so wenig bewegt: Cholesterin ist Baumaterial — für Zellwände, Hormone, Gallensäure. Dein Körper stellt den größten Teil selbst her, in der Leber. Kommt über das Essen mehr an, drosselt er die eigene Produktion. Deshalb verschiebt das Frühstücksei bei den meisten Menschen wenig.\n\nDer Hebel sitzt woanders. Gesättigtes Fett bremst, wie schnell die Leber LDL aus dem Blut zieht — Butter, Käse und Wurst wirken da stärker als jedes Ei. Und löslicher Ballaststoff, wie er in Haferflocken, Hülsenfrüchten und Äpfeln steckt, bindet Gallensäure im Darm. Die Leber muss neue bauen und holt sich den Stoff dafür aus dem Blut.\n\nUnd die Grenze dazu, ehrlich: Es gibt Menschen, bei denen das Essen am Cholesterin deutlich stärker zieht — und es gibt eine vererbte Form, bei der die Ernährung allein nichts ausrichtet und Medikamente die Behandlung sind. Wer welche nimmt, setzt sie nicht eigenmächtig ab. So ein Rückgang wie hier ist möglich, aber keine Zusage — wie stark der Wert reagiert, ist von Mensch zu Mensch verschieden. Und der LDL-Wert ist nur ein Teil des Risikos: Blutdruck, Rauchen, Bewegung und Bauchumfang zählen mit.\n\nDie eine Änderung: Er hat getauscht statt gestrichen. Butter raus, Oliven- und Rapsöl rein. Wurst einmal in der Woche statt täglich, Käse abgewogen. Morgens Haferflocken, zweimal pro Woche Linsen oder Kichererbsen. Das Frühstücksei kam zurück. Vier Monate später: LDL 139.\n\nMerksatz: Nicht das Ei. Die Butter daneben.\n\nWas liegt bei dir morgens auf dem Brot? 👇\n\n—\nBild- und Videomaterial KI-generiert.\n\n#cholesterin #ldl #eier #ernaehrungswissen #gesundessen #herzgesundheit #blutwerte #ernaehrungsmythen #gesundheitswissen #gesundheitsakte"
+ },
  "hinweis": "Karussell: hoechstens 10 Bilder. caption vollstaendig, unveraendert posten. Bei typ=reel: media_type REELS, video_url aus bilder[0]. Bei typ=bild: image_url aus bilder[0]."
 }
